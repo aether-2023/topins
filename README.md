@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/topologicalbudapest/topins)
+
 # Topological Insulators - Notebooks for an introductory course 
 
 This repository contains [jupyter](http://jupyter.org) notebooks used in the [introductory course](http://optics.szfki.kfki.hu/~asboth/topins_course/) given at the Eötvös University on topological insulatros. The course is accompanied by a set of [lecture notes](http://arxiv.org/abs/1509.02295)  as well.
